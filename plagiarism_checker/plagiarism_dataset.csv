@@ -1,0 +1,7 @@
+Original,Submission,Similarity,Label
+This is the original sentence.,This is the original sentence.,1.0,1
+The sky is blue and beautiful.,The sky is blue.,0.70,1
+Machine learning is fun.,I like pizza.,0.0,0
+Python is a great language.,I use Java for backend.,0.0,0
+Education is important for success.,Education is important for success.,1.0,1
+Artificial intelligence is the future.,AI is the future.,0.9,1

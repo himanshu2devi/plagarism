@@ -1,0 +1,3 @@
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data.
+It combines techniques from statistics, computer science, and information theory.
+Machine learning is an essential component of data science.
